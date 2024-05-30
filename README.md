@@ -23,7 +23,7 @@ You have 13 methods at your disposal, but you can add your own:
 
 ### Encryption
 
-Message: ```Hello, World!```
+Message: ```Hello, World!```   
 Password: ```qwerty1```
 
 ```cpp
@@ -48,7 +48,7 @@ ___
 
 ### Decryption
 
-Code: ```10110110100101111111011101101000001010010000001101001110001101111000011011000001111110110011010000111001```
+Code: ```10110110100101111111011101101000001010010000001101001110001101111000011011000001111110110011010000111001```   
 Password: ```qwerty1```
 
 
